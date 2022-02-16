@@ -10,7 +10,6 @@ before:
 builds:
   - env:
       - CGO_ENABLED=0
-      - GITHUB_TOKEN=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
     goos:
       - darwin
 archives:
